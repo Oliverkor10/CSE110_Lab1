@@ -6,7 +6,7 @@
 
 _Founder and CEO of Stonk Gambling w/ the bois Discord_
 
-My favorite program:
+**My favorite program:**
 
 ```
 def favorite_program():

@@ -2,7 +2,7 @@
 
 > If at First You don't succeed keep on unsucceeding
 
-[](http://si.wsj.net/public/resources/images/MI-AW459_MUNGER_DV_20090430225919.jpg)
+![](http://si.wsj.net/public/resources/images/MI-AW459_MUNGER_DV_20090430225919.jpg)
 
 _Founder and CEO of Stonk Gambling w/ the bois Discord_
 

@@ -23,3 +23,17 @@ Site courtesy of tutorial from [Github Pages](https://docs.github.com/en/github/
 ## Relative Links
 
 [Link to README.md](/README.md)
+
+## Lists
+
+- List is out of order
+- Multiple entries
+- but no order :(
+
+1. Ordered list
+2. Far Better
+3. Did I mention this list is in order :)
+
+- [x] Finish Lab 1
+- [ ] watch 45 minute tutorial on Git and Github to refresh my skills
+- [x] RickRoll the TA reading through this
